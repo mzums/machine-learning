@@ -1,2 +1,5 @@
 /handwritten_digits
 /sudoku
+*.png
+*.jpg
+.gitignore
